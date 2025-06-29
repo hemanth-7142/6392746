@@ -1,5 +1,15 @@
 package org.example;
 
+<<<<<<< HEAD
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+
+public class AppTest {
+
+    @Test
+    public void testApp() {
+        assertTrue(true);
+=======
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
@@ -34,5 +44,6 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+>>>>>>> 9cf83598013e23b5c83c5d24b297fabe922d3579
     }
 }
