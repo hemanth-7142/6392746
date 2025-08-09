@@ -1,12 +1,19 @@
 package org.example;
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0b477ced68dc34317cb50e8a67805ea4fe747500
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class AppTest {
 
     @Test
+<<<<<<< HEAD
+    public void testSomething() {
+        assertTrue(true);
+=======
     public void testApp() {
         assertTrue(true);
 =======
@@ -45,5 +52,6 @@ public class AppTest
     {
         assertTrue( true );
 >>>>>>> 9cf83598013e23b5c83c5d24b297fabe922d3579
+>>>>>>> 0b477ced68dc34317cb50e8a67805ea4fe747500
     }
 }
